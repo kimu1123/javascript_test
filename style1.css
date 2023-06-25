@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+#timer{
+    height: 120px;
+  line-height: 120px;
+  font-size: 40px;
+}
+
+button {
+    padding: 15px 10px;
+}
